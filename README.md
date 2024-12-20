@@ -34,10 +34,10 @@ Agra
 ## Technical Skills
 
 **Languages:**  
-C/C++, SQL, HTML, CSS, JavaScript, Python
+C/C++, SQL, HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Python
 
 **Libraries and Frameworks:**  
-Pandas, NumPy, Matplotlib
+React, Tailwind, Nextjs, Express, etc.
 
 **Developer Tools:**  
 GitHub, Code-Blocks, Visual Studio Code, Jupyter Notebook
