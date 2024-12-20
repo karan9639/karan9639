@@ -24,10 +24,10 @@ Agra
 
 ## Achievements
 
-- Certification in C/C++, Python, SQL, HTML
+- Certification in C/C++, Python, SQL, HTML, MERN Stack
 - Certification of Participation in Flipkart Grid 4.0
 - 5-star in C/C++, Python at HackerRank
-- Solved 200+ questions on GeeksforGeeks
+- Solved 500+ Programming Problem
 
 ---
 
